@@ -23,7 +23,7 @@ Reuse becomes dangerous when configuration silently changes financial behaviour.
 ## System shape
 
 ```mermaid
-flowchart LR
+flowchart TD
     n0["Product configuration"]
     n1["Shared modules"]
     n2["Policy boundary"]
